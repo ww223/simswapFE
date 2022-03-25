@@ -1,0 +1,30 @@
+[
+  {
+    "name": "imageswap",
+    "path": "/imageswap",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\simswap_web\\\\web\\\\front\\\\pages\\\\imageswap.vue",
+    "chunkName": "pages/imageswap",
+    "_name": "_1b62b694"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\simswap_web\\\\web\\\\front\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_e4739c00"
+  },
+  {
+    "name": "videoswap",
+    "path": "/videoswap",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\simswap_web\\\\web\\\\front\\\\pages\\\\videoswap.vue",
+    "chunkName": "pages/videoswap",
+    "_name": "_de122054"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\simswap_web\\\\web\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_06e83e1a"
+  }
+]
