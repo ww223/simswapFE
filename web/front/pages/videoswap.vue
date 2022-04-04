@@ -122,7 +122,7 @@ export default {
       }
 
       this.$axios
-        .post("http://211.110.19.228:5740/videoSwapProc", formdata, {
+        .post("", formdata, {
           /*  axios call로 서버에 작업 요청을 보낸다. */
           headers: {
             "content-type": "multipart/form-data",
