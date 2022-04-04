@@ -78,7 +78,7 @@ export default {
     selfresh() {
       var timer = setInterval(() => {
         this.$axios
-          .get("http://211.110.19.228:5740/getVideo", {
+          .get("", {
             /*  서버에 response 요청  */
             headers: {
               Accept: "video/mp4;charset=UTF-8",
@@ -138,7 +138,7 @@ export default {
 
     refresh() {
       this.$axios
-        .get("http://211.110.19.228:5740/getVideo", {
+        .get("", {
           /*  주기적으로 response를 받아오지만, 사용자가 원하는 경우 즉시 get 요청을 보내 refresh 해준다.  */
           headers: {
             Accept: "video/mp4;charset=UTF-8",
